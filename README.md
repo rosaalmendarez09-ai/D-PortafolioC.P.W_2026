@@ -6,3 +6,7 @@ PORTAFOLIO DE EVIDENCIAS ROSA, CODIFICACION DE PAGINAS WEB
 -Unidad-02-HTML
     -Fundamentos de Internet
     -Conceptos de XML    
+    -HTML conceptos y estructura básica
+    -Metadatos y nuestros metadatos
+    -W3C validacion de html
+    -Favicon y title
